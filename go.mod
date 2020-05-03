@@ -1,6 +1,6 @@
 module github.com/jinzhu/gorm
 
-go 1.12
+go 1.14
 
 require (
 	github.com/erikstmartin/go-testdb v0.0.0-20160219214506-8d10e4a1bae5
